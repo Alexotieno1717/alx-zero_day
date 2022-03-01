@@ -1,1 +1,1 @@
-my first readme
+Getting deeper into coding love it
